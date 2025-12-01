@@ -1,3 +1,9 @@
+##MRI-based Brain Tumor Detection using Covolutional Neural Networks
+
+
+
+
+
 How to run the project locally:
 
 1. Download the dataset from the link: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data?select=Training
