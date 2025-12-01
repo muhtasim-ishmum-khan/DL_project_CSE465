@@ -1,10 +1,7 @@
-##MRI-based Brain Tumor Detection using Covolutional Neural Networks
+## MRI-based Brain Tumor Detection using Covolutional Neural Networks
 
 
-
-
-
-How to run the project locally:
+## How to run the project locally:
 
 1. Download the dataset from the link: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data?select=Training
 
@@ -17,7 +14,7 @@ How to run the project locally:
 5. Run the code.
 
 
-How to run the project in Google Colab:
+## How to run the project in Google Colab:
 
 1. Open google colab
 
@@ -26,10 +23,10 @@ How to run the project in Google Colab:
 
 3. Import dataset from kaggle with these sets of command.
 	
-#Install Kaggle
+Install Kaggle
 !pip install kaggle
 
-#Upload you API token kaggle.json:
+Upload you API token kaggle.json:
 from google.colab import files
 files.upload()
 
@@ -40,7 +37,7 @@ files.upload()
 #Grant Permissions
 !chmod 600 ~/.kaggle/kaggle.json
 
-# download dataset
+## download dataset
 ! kaggle datasets download  masoudnickparvar/brain-tumor-mri-dataset
 
 !unzip brain-tumor-mri-dataset.zip
