@@ -1,5 +1,8 @@
 ## MRI-based Brain Tumor Detection using Covolutional Neural Networks
-<img width="800" height="400" alt="step2" src="intro_p3.PNG" />
+<img width="400" height="200" alt="step2" src="intro_p3.PNG" />
+
+## Result
+<img width="400" height="200" alt="step2" src="res_p3.PNG" />
 
 ## How to run the project locally:
 
